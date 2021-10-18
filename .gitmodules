@@ -1,6 +1,8 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:mugartec/django-ninja-auth-app-frontend.git
+  branch = master
 [submodule "backend"]
 	path = backend
 	url = git@github.com:mugartec/django-ninja-auth-app-backend.git
+  branch = master
